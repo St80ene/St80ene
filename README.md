@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/etienejames5" target="blank"><img src="https://img.shields.io/twitter/follow/etienejames5?logo=twitter&style=for-the-badge" alt="etienejames5" /></a> </p>
 
-- 🔭 I’m currently learning **Frontend Web development skills at JSminna using HTML, CSS and JavaScript**
+- 🔭 I’m currently learning **Full Stack Web Development**
 
 - 📝 I regulary write articles on [https://techiegist.hashnode.dev/](https://techiegist.hashnode.dev/)
 
-- 💬 Ask me about **react, bootstrap, javaScript**
+- 💬 Ask me about **react, bootstrap, javaScript, nodejs,expressjs**
 
 - 📫 How to reach me **etienejames5@gmail.com**
 
-- ⚡ Fun fact **I'm just a fun guy trying to keep it simple, WET and DRY.**
+- ⚡ Fun fact **I'm just a fun guy trying to keep it simple and DRY.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
