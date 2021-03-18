@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Etiene Essenoh</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate Software Engineer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=st80ene&label=Profile%20views&color=0e75b6&style=flat" alt="st80ene" /> </p>
 
