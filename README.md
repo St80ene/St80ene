@@ -12,11 +12,11 @@
 
 - 📝 I regulary write articles on [https://techiegist.hashnode.dev/](https://techiegist.hashnode.dev/)
 
-- 💬 Ask me about **react, bootstrap, javaScript, nodejs,expressjs**
+- 💬 Ask me about **Reactjs, JavaScript, Nodejs, Expressjs**
 
 - 📫 How to reach me **etienejames5@gmail.com**
 
-- ⚡ Fun fact **I'm just a fun guy trying to keep it simple and DRY.**
+- ⚡ Fun fact **I use Enter Key to format my code**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
