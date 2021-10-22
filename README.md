@@ -26,6 +26,19 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" width="50" height="50" />
 </p>
+
+
+---
+
+📘 Latest Blog Articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+▶ [...more blog articles](https://techiegist.hashnode.dev/)
+
+---
+
 <!--
 **St80ene/St80ene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
