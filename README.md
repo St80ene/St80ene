@@ -33,7 +33,7 @@
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [How I solved the "Invalid connection string" error on Heroku](https://techiegist.hashnode.dev/how-i-solved-the-invalid-connection-string-error-on-heroku)
+- [How I solved the &quot;Invalid connection string&quot; error on Heroku](https://techiegist.hashnode.dev/how-i-solved-the-invalid-connection-string-error-on-heroku)
 - [How Do I Reference A Schema in Mongoose?](https://techiegist.hashnode.dev/how-do-i-reference-a-schema-in-mongoose)
 - [Why I code.](https://techiegist.hashnode.dev/why-i-code)
 - [Arguments Versus Parameters in Programming...Understanding the differences](https://techiegist.hashnode.dev/arguments-versus-parameters-in-programmingunderstanding-the-differences)
