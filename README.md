@@ -33,11 +33,11 @@
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Making My Code Human Readable](https://techiegist.hashnode.dev/making-my-code-human-readable)
 - [How I solved the &quot;Invalid connection string&quot; error on Heroku](https://techiegist.hashnode.dev/how-i-solved-the-invalid-connection-string-error-on-heroku)
 - [How Do I Reference A Schema in Mongoose?](https://techiegist.hashnode.dev/how-do-i-reference-a-schema-in-mongoose)
 - [Why I code.](https://techiegist.hashnode.dev/why-i-code)
 - [Arguments Versus Parameters in Programming...Understanding the differences](https://techiegist.hashnode.dev/arguments-versus-parameters-in-programmingunderstanding-the-differences)
-- [Tips on taking care of your laptop](https://techiegist.hashnode.dev/tips-on-taking-care-of-your-laptop)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://techiegist.hashnode.dev/)
