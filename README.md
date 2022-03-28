@@ -33,11 +33,11 @@
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Excerpts From My OSCAFEST22 Experience](https://techiegist.hashnode.dev/excerpts-from-my-oscafest22-experience)
 - [Understanding the major differences between Web 2 and Web 3](https://techiegist.hashnode.dev/understanding-the-major-differences-between-web-2-and-web-3)
 - [Demystifying The Concept Of Node.js Event Loop](https://techiegist.hashnode.dev/demystifying-the-concept-of-nodejs-event-loop)
 - [Making My Code Human Readable](https://techiegist.hashnode.dev/making-my-code-human-readable)
 - [How I solved the &quot;Invalid connection string&quot; error on Heroku](https://techiegist.hashnode.dev/how-i-solved-the-invalid-connection-string-error-on-heroku)
-- [How Do I Reference A Schema in Mongoose?](https://techiegist.hashnode.dev/how-do-i-reference-a-schema-in-mongoose)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://techiegist.hashnode.dev/)
