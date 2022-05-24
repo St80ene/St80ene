@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Etiene Essenoh
 ---
-<p>A Mechanical Engineer turned Software Engineer with a focus on JavaScript Back-End Technologies such as NodeJs, ExpressJs, MongoDB with Front-End Technologies like ReactJs. A highly motivated and dependable team player with problem-solving skills looking to exploring Robotics and Cloud Computing</p>
+<p>A Mechanical Engineer turned Software Engineer with a focus on JavaScript Back-End Technologies such as NodeJs, ExpressJs, MongoDB and Front-End Technologies like ReactJs. A highly motivated and dependable team player with problem-solving skills looking to exploring Robotics and Cloud Computing</p>
 
 ---
 
