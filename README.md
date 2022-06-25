@@ -1,7 +1,10 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Etiene Essenoh
+### Hi there, 👋 I am Etiene Essenoh
 ---
 <p>A Mechanical Engineer turned Software Engineer with a focus on JavaScript Back-End Technologies such as NodeJs, ExpressJs, MongoDB and Front-End Technologies like ReactJs. A highly motivated and dependable team player with problem-solving skills looking to exploring Robotics and Cloud Computing</p>
 
+- 🌱 I’m currently learning Solidity
+- 🔭 I’m currently working on building my communication skill and online presence
+- 🤗 I love giving back to the community by volunteering for community based events 
 ---
 
 
@@ -57,7 +60,7 @@ You can find me on [Twitter](https://twitter.com/etienejames5) or [LinkedIn](htt
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Solidity
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
