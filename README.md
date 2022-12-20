@@ -36,11 +36,11 @@
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Explain Dependency Injection to me like I&#39;m a 5-year-old](https://techiegist.hashnode.dev/explain-dependency-injection-to-me-like-im-a-5-year-old)
 - [How to create child processes in Nodejs](https://techiegist.hashnode.dev/how-to-create-child-processes-in-nodejs)
 - [What is Threading in Nodejs](https://techiegist.hashnode.dev/what-is-threading-in-nodejs)
 - [Is Nodejs a Framework Or Library?](https://techiegist.hashnode.dev/is-nodejs-a-framework-or-library)
 - [Excerpts From My OSCAFEST22 Experience](https://techiegist.hashnode.dev/excerpts-from-my-oscafest22-experience)
-- [Understanding the major differences between Web 2 and Web 3](https://techiegist.hashnode.dev/understanding-the-major-differences-between-web-2-and-web-3)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://techiegist.hashnode.dev/)
