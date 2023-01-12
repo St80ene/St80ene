@@ -1,8 +1,22 @@
-### Hi there, 👋 I am Etiene Essenoh
----
-<p>A Mechanical Engineer turned Software Engineer with a focus on JavaScript Back-End Technologies such as NodeJs, ExpressJs, MongoDB and Front-End Technologies like ReactJs. A highly motivated and dependable team player with problem-solving skills looking to exploring Robotics and Cloud Computing</p>
 
-- 🌱 I’m currently learning Solidity
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div align="center">
+  <h1>
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+### :man_technologist: About Me :
+
+A Mechanical Engineer turned Software Engineer with a focus on JavaScript Back-End Technologies such as NodeJs, ExpressJs, MongoDB and Front-End Technologies like ReactJs. A highly motivated and dependable team player with problem-solving skills looking to exploring Robotics and Cloud Computing
+
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :seedling: Exploring Technical Content Writing.
 - 🔭 I’m currently working on building my communication skill and online presence
 - 🤗 I love giving back to the community by volunteering for community based events 
 ---
@@ -48,10 +62,10 @@
 ---
 
 ## &#x1f4c8; My GitHub Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=St80ene&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=St80ene&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=St80ene&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![St80ene's GitHub stats](https://github-readme-stats.vercel.app/api?username=St80ene&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 You can find me on [Twitter](https://twitter.com/etienejames5) or [LinkedIn](https://www.linkedin.com/in/etiene-essenoh/)
 <!--
