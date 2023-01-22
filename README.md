@@ -50,7 +50,7 @@ A Mechanical Engineer turned Software Engineer with a focus on JavaScript Back-E
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Practical Overview on React Hooks](https://techiegist.hashnode.dev/practical-overview-on-react-hooks)
+- [A Practical Overview on React Hooks](https://techiegist.hashnode.dev/a-practical-overview-on-react-hooks)
 - [Understanding  what SSO is all about](https://techiegist.hashnode.dev/understanding-what-sso-is-all-about)
 - [What is Object.is&lpar;&rpar; method in Javascript?](https://techiegist.hashnode.dev/what-is-objectis-method-in-javascript)
 - [My Journey so far as a Developer - Dev Retro 2022](https://techiegist.hashnode.dev/my-journey-so-far-as-a-developer-dev-retro-2022)
