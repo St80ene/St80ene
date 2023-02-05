@@ -50,11 +50,11 @@ A Mechanical Engineer turned Software Engineer with a focus on JavaScript Back-E
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Dynamic Imports in JavaScript: A Comprehensive Guide](https://techiegist.hashnode.dev/dynamic-imports-in-javascript-a-comprehensive-guide)
 - [Understanding React Hot Reloading](https://techiegist.hashnode.dev/understanding-react-hot-reloading)
 - [How to Debug Your Javascript Code](https://techiegist.hashnode.dev/how-to-debug-your-javascript-code)
 - [Best Ways You can Optimize your React Applications](https://techiegist.hashnode.dev/best-ways-you-can-optimize-your-react-applications)
 - [Why I love the Tech Industry](https://techiegist.hashnode.dev/why-i-love-the-tech-industry)
-- [A Practical Overview on React Hooks](https://techiegist.hashnode.dev/a-practical-overview-on-react-hooks)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://techiegist.hashnode.dev/)
