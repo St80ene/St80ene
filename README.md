@@ -50,11 +50,11 @@ A Mechanical Engineer turned Software Engineer with a focus on JavaScript Back-E
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Insight into TypeORM Features](https://techiegist.hashnode.dev/insight-into-typeorm-features)
+- [How to optimize your TypeORM project](https://techiegist.hashnode.dev/how-to-optimize-your-typeorm-project)
+- [Insight into some TypeORM Features](https://techiegist.hashnode.dev/insight-into-some-typeorm-features)
 - [Introduction to TypeORM and its features](https://techiegist.hashnode.dev/introduction-to-typeorm-and-its-features)
 - [Why you should use React useCallback Hook: A Deep Dive](https://techiegist.hashnode.dev/why-you-should-use-react-usecallback-hook-a-deep-dive)
 - [Dynamic Imports in JavaScript: A Comprehensive Guide](https://techiegist.hashnode.dev/dynamic-imports-in-javascript-a-comprehensive-guide)
-- [Understanding React Hot Reloading](https://techiegist.hashnode.dev/understanding-react-hot-reloading)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://techiegist.hashnode.dev/)
