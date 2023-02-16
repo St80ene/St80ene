@@ -50,11 +50,11 @@ A Mechanical Engineer turned Software Engineer with a focus on JavaScript Back-E
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Discover the Wonders of Internet Protocols in Just a Few Minutes](https://techiegist.hashnode.dev/discover-the-wonders-of-internet-protocols-in-just-a-few-minutes)
 - [Circular Dependencies in Nestjs: What is it about?](https://techiegist.hashnode.dev/circular-dependencies-in-nestjs-what-is-it-about)
 - [Understanding Entity in TypeORM](https://techiegist.hashnode.dev/understanding-entity-in-typeorm)
 - [Understanding useRef React Hook](https://techiegist.hashnode.dev/understanding-useref-react-hook)
 - [How to optimize your TypeORM project](https://techiegist.hashnode.dev/how-to-optimize-your-typeorm-project)
-- [Insight into some TypeORM Features](https://techiegist.hashnode.dev/insight-into-some-typeorm-features)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://techiegist.hashnode.dev/)
