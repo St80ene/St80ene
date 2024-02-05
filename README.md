@@ -13,13 +13,7 @@
 ---
 ### :man_technologist: About Me :
 
-A Mechanical Engineer turned Software Engineer with a focus on JavaScript Back-End Technologies such as NodeJs, ExpressJs, MongoDB and Front-End Technologies like ReactJs. A highly motivated and dependable team player with problem-solving skills looking to exploring Robotics and Cloud Computing
-
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- :seedling: Exploring Technical Content Writing.
-- 🔭 I’m currently working on building my communication skill and online presence
-- 🤗 I love giving back to the community by volunteering for community based events 
----
+A Mechanical Engineer turned Software Engineer focused on problem solving by building seamless user interfaces. A team player that comes up with ideas on better approach to things, and following up by communicating effectively to team members. Always gathering experiences while learning and improving on exisiting knowledge. Looking at venturing into the AI space in the future for the fun of knowledge and experience
 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Code_Digger?style=social)
