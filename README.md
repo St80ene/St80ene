@@ -44,11 +44,11 @@ A Mechanical Engineer turned Software Engineer focused on problem solving by bui
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Authentication and Authorization: Important Information You Need](https://techiegist.hashnode.dev/mastering-authentication-and-authorization-important-information-you-need)
 - [Discover the Wonders of Internet Protocols in Just a Few Minutes](https://techiegist.hashnode.dev/discover-the-wonders-of-internet-protocols-in-just-a-few-minutes)
 - [Circular Dependencies in Nestjs: What is it about?](https://techiegist.hashnode.dev/circular-dependencies-in-nestjs-what-is-it-about)
 - [Understanding Entity in TypeORM](https://techiegist.hashnode.dev/understanding-entity-in-typeorm)
 - [Understanding useRef React Hook](https://techiegist.hashnode.dev/understanding-useref-react-hook)
-- [How to optimize your TypeORM project](https://techiegist.hashnode.dev/how-to-optimize-your-typeorm-project)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://techiegist.hashnode.dev/)
