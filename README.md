@@ -44,11 +44,11 @@ A Mechanical Engineer turned Software Engineer focused on problem solving by bui
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Artifical Intelligence: Random Facts about AI](https://techiegist.hashnode.dev/artifical-intelligence-random-facts-about-ai)
 - [Tips for Properly Returning Values in Your Functions](https://techiegist.hashnode.dev/tips-for-properly-returning-values-in-your-functions)
 - [Mastering Authentication and Authorization: Important Information You Need](https://techiegist.hashnode.dev/mastering-authentication-and-authorization-important-information-you-need)
 - [Discover the Wonders of Internet Protocols in Just a Few Minutes](https://techiegist.hashnode.dev/discover-the-wonders-of-internet-protocols-in-just-a-few-minutes)
 - [Circular Dependencies in Nestjs: What is it about?](https://techiegist.hashnode.dev/circular-dependencies-in-nestjs-what-is-it-about)
-- [Understanding Entity in TypeORM](https://techiegist.hashnode.dev/understanding-entity-in-typeorm)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://techiegist.hashnode.dev/)
