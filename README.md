@@ -13,7 +13,7 @@
 ---
 ### :man_technologist: About Me :
 
-A Mechanical Engineer turned Software Engineer focused on problem solving by building seamless user interfaces. A team player that comes up with ideas on better approach to things, and following up by communicating effectively to team members. Always gathering experiences while learning and improving on exisiting knowledge. Looking at venturing into the AI space in the future for the fun of knowledge and experience
+A Mechanical Engineer turned Software Engineer focused on problem solving by building seamless user interfaces. A team player that comes up with ideas on better approach to things, and following up by communicating effectively to team members. Always gathering experiences while learning and improving on exisiting knowledge. Exploring the world of Artificial Intelligence for the fun of knowledge and experience.
 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Code_Digger?style=social)
