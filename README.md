@@ -44,11 +44,11 @@ A Mechanical Engineer turned Software Engineer focused on problem solving by bui
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Transform Essay Grading with AI: How Essay Marker and AutoGon AI are Revolutionizing Education](https://techiegist.hashnode.dev/transform-essay-grading-with-ai-how-essay-marker-and-autogon-ai-are-revolutionizing-education)
 - [The Secret Life of Bugs: Why Your Favorite Apps Crash and How We Fix Them](https://techiegist.hashnode.dev/the-secret-life-of-bugs-why-your-favorite-apps-crash-and-how-we-fix-them)
 - [🍳 Cooking Up AI Models: A Flavorful Journey Through Data and Algorithms](https://techiegist.hashnode.dev/cooking-up-ai-models-a-flavorful-journey-through-data-and-algorithms)
 - [Artificial Intelligence, Deep Learning, Machine Learning: Explaining these terms](https://techiegist.hashnode.dev/artificial-intelligence-deep-learning-machine-learning-explaining-these-terms)
 - [Artifical Intelligence: Random Facts about AI](https://techiegist.hashnode.dev/artifical-intelligence-random-facts-about-ai)
-- [Tips for Properly Returning Values in Your Functions](https://techiegist.hashnode.dev/tips-for-properly-returning-values-in-your-functions)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://techiegist.hashnode.dev/)
