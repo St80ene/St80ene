@@ -35,7 +35,7 @@ A Mechanical Engineer turned Software Engineer focused on problem solving by bui
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50" />
 </p>
 
 
