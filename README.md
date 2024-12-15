@@ -44,11 +44,11 @@ A Mechanical Engineer turned Software Engineer focused on problem solving by bui
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Python Lambdas Explained: A Beginner’s Guide](https://techiegist.hashnode.dev/python-lambdas-explained-a-beginners-guide)
 - [All You Need to Know About Python Functions, Parameters, and Arguments](https://techiegist.hashnode.dev/all-you-need-to-know-about-python-functions-parameters-and-arguments)
 - [Build Your Own Gym Buddy ChatBot with React: Ready to Flex Some Code?](https://techiegist.hashnode.dev/build-your-own-gym-buddy-chatbot-with-react-ready-to-flex-some-code)
 - [Transform Essay Grading with AI: How Essay Marker and AutoGon AI are Revolutionizing Education](https://techiegist.hashnode.dev/transform-essay-grading-with-ai-how-essay-marker-and-autogon-ai-are-revolutionizing-education)
 - [The Secret Life of Bugs: Why Your Favorite Apps Crash and How We Fix Them](https://techiegist.hashnode.dev/the-secret-life-of-bugs-why-your-favorite-apps-crash-and-how-we-fix-them)
-- [🍳 Cooking Up AI Models: A Flavorful Journey Through Data and Algorithms](https://techiegist.hashnode.dev/cooking-up-ai-models-a-flavorful-journey-through-data-and-algorithms)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://techiegist.hashnode.dev/)
